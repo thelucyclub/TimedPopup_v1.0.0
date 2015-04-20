@@ -1,0 +1,8 @@
+name: TimedPopup
+main: TimedPopup\Main
+version: 1.0.0
+load: STARTUP
+api: [1.0.0]
+author: TheLucyClub
+description: Popups on a time set
+website: http://thelucyclub.tk
